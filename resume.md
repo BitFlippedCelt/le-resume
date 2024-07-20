@@ -74,6 +74,7 @@ March 2022 - Present, Remote
 - Actively contributed as both a team leader and individual contributor, staying hands-on with technology while guiding overall strategy
 
 **Key Achievements:**
+
 - Transformation of operations team into a mature, reliable infrastructure platform
 - Implementation of DevOps best practices and standardized workflows
   - Reduction of operational overhead and improved platform stability by an order of magnitude
@@ -81,8 +82,11 @@ March 2022 - Present, Remote
 - Establishment of unified observability platform (single pane of glass) for system monitoring and troubleshooting
 - Development and execution of strategic roadmap for infrastructure evolution
 - Launched and supported numerous successful projects, including:
-  - A Telegram game that acquired over 1 million users within 4 weeks of launch
-  - This rapid growth validated the scalability and robustness of our infrastructure platform, developed over the past 2 years
+  - A Telegram based game that acquired over 1 million users within 4 weeks of launch
+    - This rapid growth has validated the scalability and robustness of our infrastructure platform, developed over the past 2 years
+  - Supported the launch of both our Film and Music platforms
+  - Worked closely with the development team to help design DNS and TLS strategies for unlocking decentralized content delivery across our node network
+  - Various 1st and 3rd party game launches
 
 **Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, Okta, Finout, Python, Rust, Go, Node
 
@@ -98,11 +102,13 @@ Developing an innovative Discord-based game featuring an AI-driven narrative adv
 - Orchestrating Kubernetes-based deployment through Github Actions and Pulumi (Python)
 
 **Planned Features:**
+
 - Web frontend using Rust Leptos framework for extended gameplay options
 - Integration with SUI network for blockchain-managed in-game economy
 - Storing player characters, NPCs, and items on-chain for true digital ownership
 
 **Key Achievements:**
+
 - Designed and implemented a robust backend architecture
 - Developed a Discord bot for user interaction
 - Storyline and narrative design using ChatGPT custom GPTs
@@ -123,6 +129,7 @@ Led the development of a computer-sharing marketplace for game hosting, with a f
 - This project served as a launchpad into blockchain technology, directly leading to the current role at Gala Games
 
 **Key Achievements:**
+
 - Developed and deployed Solidity smart contracts
 - Designed tokenomics for a compute-sharing platform
 - Developed on-chain assets for digital ownership
@@ -143,6 +150,7 @@ Retruned to Austin, TX and rejoined Kasasa during the COVID-19 pandemic, adaptin
 - Contributed to the organization's resilience and adaptability during a challenging period of remote work and rapid digital transformation
 
 **Key Achievements:**
+
 - Development of graph-based reporting and visualization tools
 - Implementation of GitLab integration for repository data analysis
 
@@ -163,6 +171,7 @@ Initially hired to build an AWS cloud professional services practice, pivoted to
 - Cultivated strong relationships with GCP technical and sales teams, ensuring internal teams had access to latest technical training and resources
 
 **Key Achievements:**
+
 - Full GCP certification, including beta DevOps certification
 - Successful pivot from AWS to GCP practice
 - International team leadership and development
@@ -184,6 +193,7 @@ Led the transformation from legacy infrastructure to modern cloud architecture, 
 - Progressed from Lead Cloud Engineer to Director of Cloud Operations, developing crucial stakeholder management and organizational leadership skills
 
 **Key Achievements:**
+
 - Successful migration of datacenter-supported products and platforms to AWS
 - Implementation of Kubernetes and cloud-native practices
 - Career growth from technical lead to director-level position
