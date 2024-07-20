@@ -40,7 +40,7 @@ author:
 - Greg Horejsi <g.horejsi81@gmail.com>
 subject: 'Le CV de Greg Horejsi 😸'
 ---
-###### [[LinkedIN](https://www.linkedin.com/in/ghorejsi/)]|[[GitHub](https://github.com/BitFlippedCelt)] . [ g.horejs81@gmail.com ] . [ +1 626 923 7779 ]
+###### [[LinkedIn](https://www.linkedin.com/in/ghorejsi/)]|[[GitHub](https://github.com/BitFlippedCelt)] . [ g.horejs81@gmail.com ] . [ +1 626 923 7779 ]
 
 *Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at leading high-performance teams and delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape.*
 
