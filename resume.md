@@ -2,7 +2,7 @@
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
-margin-bottom: 2cm
+margin-bottom: 4cm
 title: Hands-On Technology Leader
 description-meta: 'Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at leading high-performance teams and delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape..'
 keywords:
@@ -30,6 +30,7 @@ keywords:
 - AI Integration
 - DevOps
 - Web3
+- Depin
 - FinOps
 - Cloud Architecture
 - Scalable Systems
@@ -40,7 +41,7 @@ author:
 - Greg Horejsi <g.horejsi81@gmail.com>
 subject: 'Le CV de Greg Horejsi 😸'
 ---
-###### [[LinkedIn](https://www.linkedin.com/in/ghorejsi/)]|[[GitHub](https://github.com/BitFlippedCelt)] . [ g.horejs81@gmail.com ] . [ +1 626 923 7779 ]
+###### Greg Horejsi [ g.horejs81@gmail.com ] . [ +1 626 923 7779 ] . [[LinkedIn](https://www.linkedin.com/in/ghorejsi/)] . [[GitHub](https://github.com/BitFlippedCelt)]
 
 *Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at leading high-performance teams and delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape.*
 
@@ -48,7 +49,7 @@ subject: 'Le CV de Greg Horejsi 😸'
 
 - **Cloud & Infrastructure**: AWS, GCP, Kubernetes, Infrastructure as Code (IaC), Cloud Migration, Scalable Systems
 - **DevOps & Engineering**: GitLab, GitHub Actions, CI/CD, Observability, Python, Rust, Go, Node.js
-- **Blockchain & Web3**: Ethereum, Substrate, HyperLedger, Smart Contracts, Tokenomics, NFTs
+- **Blockchain & Web3**: Ethereum, Substrate, HyperLedger, Smart Contracts, Depin, NFTs
 - **Leadership & Strategy**: Cloud Operations Management, Technology Strategy, Team Development, Stakeholder Management, Agile Leadership
 - **Databases**: Postgres, MySQL, MongoDB, Redis, SurrealDB, GraphDB
 - **Security & FinOps**: Access Control, Okta, Cloud Cost Optimization, Finout
