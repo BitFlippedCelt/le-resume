@@ -43,14 +43,14 @@ subject: 'Le CV de Greg Horejsi 😸'
 ---
 ###### Greg Horejsi [ g.horejs81@gmail.com ] . [ +1 626 923 7779 ] . [[LinkedIn](https://www.linkedin.com/in/ghorejsi/)] . [[GitHub](https://github.com/BitFlippedCelt)]
 
-*Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at leading high-performance teams and delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape.*
+*Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at growing and leading high-performance teams while delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape.*
 
 ## Skills
 
 - **Cloud & Infrastructure**: AWS, GCP, Kubernetes, Infrastructure as Code (IaC), Cloud Migration, Scalable Systems
 - **DevOps & Engineering**: GitLab, GitHub Actions, CI/CD, Observability, Python, Rust, Go, Node.js
 - **Blockchain & Web3**: Ethereum, Substrate, HyperLedger, Smart Contracts, Depin, NFTs
-- **Leadership & Strategy**: Cloud Operations Management, Technology Strategy, Team Development, Stakeholder Management, Agile Leadership
+- **Leadership & Strategy**: Cloud Operations Management, Technology Strategy, Team Development, Stakeholder Management, Agile Leadership, Law of Balance
 - **Databases**: Postgres, MySQL, MongoDB, Redis, SurrealDB, GraphDB
 - **Security & FinOps**: Access Control, Okta, Cloud Cost Optimization, Finout
 - **Game Development**: Godot, Unity, C#
@@ -62,33 +62,24 @@ subject: 'Le CV de Greg Horejsi 😸'
 
 March 2022 - Present, Remote
 
-- Led the transformation of a young operations team into a mature, reliable infrastructure platform that developer teams depend on
-- Implemented and standardized DevOps best practices across the organization, significantly improving operational efficiency and platform stability
-- Developed and executed a strategic roadmap to evolve from ad-hoc operations to a structured, scalable infrastructure platform
-- Spearheaded the implementation of a unified observability platform, enhancing system monitoring and troubleshooting capabilities
-- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations to optimize performance and resource management
-- Established Infrastructure as Code (IaC) workflows, fostering a pattern-driven infrastructure mindset
-- Drove initiatives to enhance security through access control management and resource isolation
-- Led cross-functional efforts to implement Okta as the unified authentication solution, collaborating with stakeholders across various domains to ensure seamless integration and adoption
-- Onboarded and integrated Finout, a FinOps maturity tool, to improve accessibility and visibility of cloud spend, enabling better cost management and optimization across the organization
-- Actively contributed as both a team leader and individual contributor, staying hands-on with technology while guiding overall strategy
-
-**Key Achievements:**
-
-- Transformation of operations team into a mature, reliable infrastructure platform
-- Implementation of DevOps best practices and standardized workflows
-  - Reduction of operational overhead and improved platform stability by an order of magnitude
-  - Reduced time from new feature design to production deployment from weeks to days through automation and self service
-- Establishment of unified observability platform (single pane of glass) for system monitoring and troubleshooting
-- Development and execution of strategic roadmap for infrastructure evolution
+- Implemented and standardized DevOps best practices across the organization, resulting in significantly improved operational efficiency and platform stability.
+- Developed and executed a strategic roadmap to transition from ad-hoc operations to a structured, scalable infrastructure platform.
+- Spearheaded the implementation of a unified observability platform, enhancing system monitoring and troubleshooting capabilities.
+- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations to optimize performance and resource management.
+- Established Infrastructure as Code (IaC) workflows, promoting a pattern-driven infrastructure mindset.
+- Enhanced security through access control management and resource isolation, driving initiatives to improve overall security posture.
+- Led cross-functional efforts to implement Okta as the unified authentication solution, ensuring seamless integration and adoption.
+- Onboarded and integrated Finout, a FinOps maturity tool, to improve cloud spend visibility and management across the organization.
+- Actively contributed as both a team leader and individual contributor, balancing hands-on technology involvement with strategic guidance.
+- Transformed a young operations team into a mature, reliable infrastructure platform organization.
 - Launched and supported numerous successful projects, including:
-  - A Telegram based game that acquired over 1 million users within 4 weeks of launch
-    - This rapid growth has validated the scalability and robustness of our infrastructure platform, developed over the past 2 years
-  - Supported the launch of both our Film and Music platforms
-  - Worked closely with the development team to help design DNS and TLS strategies for unlocking decentralized content delivery across our node network
-  - Various 1st and 3rd party game launches
+  - A Telegram-based game that acquired over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
+  - Film and Music platforms launches.
+  - Designed DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
+  - Supported various 1st and 3rd party game launches.
+  - Developed product and environment ecosystems to reduce blast radius and increase security.
 
-**Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, Okta, Finout, Python, Rust, Go, Node
+**Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, DataDog, Okta, Finout, Python, Rust, Go, NodeJS
 
 ### Discord Based Adventure Game - Full Stack Founder
 
@@ -96,24 +87,18 @@ April 2024 - Present, Austin, TX
 
 Developing an innovative Discord-based game featuring an AI-driven narrative adventure set in a cyberpunk underworld.
 
-- Designing a narration and environmental description engine using LLAMA for dynamic storytelling
-- Designed an asynchronous backend architecture leveraging Rust, Dragonfly (Redis), NATS, and SurrealDB
-- Developing Discord bot functionality using Poise and Serenity crates for seamless user interaction
-- Orchestrating Kubernetes-based deployment through Github Actions and Pulumi (Python)
+- Designed a narration and environmental description engine using LLAMA for dynamic storytelling.
+- Developed an asynchronous backend architecture leveraging Rust, Dragonfly (Redis), NATS, and SurrealDB.
+- Created Discord bot functionality using Poise and Serenity crates for seamless user interaction.
+- Orchestrated Kubernetes-based deployment through GitHub Actions and Pulumi (Python).
 
 **Planned Features:**
 
-- Web frontend using Rust Leptos framework for extended gameplay options
-- Integration with SUI network for blockchain-managed in-game economy
-- Storing player characters, NPCs, and items on-chain for true digital ownership
+- Web frontend using Rust Leptos framework for extended gameplay options.
+- Integration with SUI network for blockchain-managed in-game economy.
+- On-chain storage of player characters, NPCs, and items for true digital ownership.
 
-**Key Achievements:**
-
-- Designed and implemented a robust backend architecture
-- Developed a Discord bot for user interaction
-- Storyline and narrative design using ChatGPT custom GPTs
-
-**Technologies used:** Rust, Python, Kubernetes, NATS, Redis, SurrealDB, Poise, Serenity, LLAMA, SUI
+**Technologies Used:** Rust, Python, Kubernetes, NATS, Redis, SurrealDB, Poise, Serenity, LLAMA, SUI
 
 ### RetroVision Gamiverse - Founder
 
@@ -122,11 +107,10 @@ November 2021 - March 2022
 Led the development of a computer-sharing marketplace for game hosting, with a focus on establishing an NFT ecosystem across non-blockchain native games.
 
 - Gained in-depth knowledge of Ethereum blockchain and EVM (Ethereum Virtual Machine)
-- Developed and deployed Solidity smart contracts using Hardhat for local development and testnet environments
+- Developed and deployed Solidity smart contracts using Hardhat and OpenZepplin for local development and testnet environments
 - Designed tokenomics to support a platform enabling users to "stake" compute resources and reward idle computing power utilization
-- Created on-chain assets using Solidity, enhancing understanding of blockchain-based digital ownership
 - Developed product roadmap for various phases of the company vision
-- This project served as a launchpad into blockchain technology, directly leading to the current role at Gala Games
+- This project served as a launchpad into blockchain technology, directly leading to a key role at Gala Games
 
 **Key Achievements:**
 
@@ -134,7 +118,7 @@ Led the development of a computer-sharing marketplace for game hosting, with a f
 - Designed tokenomics for a compute-sharing platform
 - Developed on-chain assets for digital ownership
 
-**Technologies used:** Ethereum, Solidity, Hardhat, NFTs, Tokenomics
+**Technologies used:** Ethereum, Solidity, Hardhat, OpenZepplin, NFTs, Python, Rust
 
 ### Kasasa, Austin TX - Lead Cloud Operations Engineer
 
@@ -172,8 +156,8 @@ Initially hired to build an AWS cloud professional services practice, pivoted to
 
 **Key Achievements:**
 
-- Full GCP certification, including beta DevOps certification
-- Successful pivot from AWS to GCP practice
+- Full GCP certification suite, including beta DevOps certification
+- Successful management of organizational pivot from AWS to GCP focused support/services practice
 - International team leadership and development
 
 **Technologies used:** GCP, AWS, Cloud Architecture, DevOps
@@ -199,6 +183,19 @@ Led the transformation from legacy infrastructure to modern cloud architecture, 
 - Career growth from technical lead to director-level position
 
 **Technologies used:** AWS, Kubernetes, KOPS, OpenStack, OpenVZ, CloudFlare, DataDog
+
+### Golden Frog, Austin TX - Lead DevOps Engineer
+
+Oct 2012 - Feb 2016
+
+Originally joined as a Python engineer to support the VyprVPN product. Transitioned into operations and developer support, contributing to early DevOps methodologies.
+
+- Took over Windows Desktop development of the VyprVPN product, developing a WPF-based renewal of the original WinForms application.
+- Supported backend billing systems development using Scala and Java.
+- Designed and developed VyprVPN for OpenWRT-based routers using Go and Python.
+- Developed the foundations of a multi-datacenter metrics and logging aggregation platform, enhancing visibility and operational awareness for developers.
+
+**Technologies Used:** VMWare, ElasticSearch, OpenTSDB, InfluxDB, Jenkins, Scala, Go, Python, C#, C++
 
 ## Awards & Recognition
 
