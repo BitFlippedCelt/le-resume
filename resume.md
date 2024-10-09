@@ -92,7 +92,7 @@ Outcomes:
 - Strengthened overall security hygiene across the organization
 - Enabled the engineering organization to focus on innovation rather than operational concerns
 
-## Launched and supported numerous successful projects, including:
+#### Launched and supported numerous successful projects, including:
   - A Telegram-based game acquiring over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
   - Film and Music platforms launches.
   - DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
