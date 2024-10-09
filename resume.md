@@ -62,24 +62,45 @@ subject: 'Le CV de Greg Horejsi 😸'
 
 March 2022 - Present, Remote
 
-- Implemented and standardized DevOps best practices across the organization, resulting in significantly improved operational efficiency and platform stability.
-- Developed and executed a strategic roadmap to transition from ad-hoc operations to a structured, scalable infrastructure platform.
-- Spearheaded the implementation of a unified observability platform, enhancing system monitoring and troubleshooting capabilities.
-- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations to optimize performance and resource management.
-- Established Infrastructure as Code (IaC) workflows, promoting a pattern-driven infrastructure mindset.
-- Enhanced security through access control management and resource isolation, driving initiatives to improve overall security posture.
-- Led cross-functional efforts to implement Okta as the unified authentication solution, ensuring seamless integration and adoption.
-- Onboarded and integrated Finout, a FinOps maturity tool, to improve cloud spend visibility and management across the organization.
-- Actively contributed as both a team leader and individual contributor, balancing hands-on technology involvement with strategic guidance.
-- Transformed a young operations team into a mature, reliable infrastructure platform organization.
-- Launched and supported numerous successful projects, including:
-  - A Telegram-based game that acquired over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
-  - Film and Music platforms launches.
-  - Designed DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
-  - Supported various 1st and 3rd party game launches.
-  - Developed product and environment ecosystems to reduce blast radius and increase security.
+Led a transformative shift from reactive support to proactive, strategic infrastructure and security management, supporting Gala Games' growth through enhanced internal and external infrastructure and streamlined release workflows.
 
-**Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, DataDog, Okta, Finout, Python, Rust, Go, NodeJS
+Key Achievements:
+- Implemented and standardized DevOps best practices across the organization, significantly improving operational efficiency and platform stability.
+- Developed and executed a strategic roadmap transitioning from ad-hoc operations to a structured, scalable infrastructure platform.
+- Spearheaded initiatives encompassing:
+  1. Consistent deployment targets and workflows
+  2. Infrastructure-as-Code (IaC) for cloud and Kubernetes environments
+  3. Mature CI/CD processes integrated with GitOps methodologies
+  4. Consolidated observability on the DataDog platform
+  5. Enhanced organizational security posture
+  6. Development of a FinOps program to improve cloud spend visibility and management
+
+- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations to optimize performance and resource management.
+- Led security enhancements including:
+  - Migration to Okta for improved identity and access management
+  - Overhaul of security operations and general security practices
+  - Implementation of access control management and resource isolation
+
+- Onboarded and integrated Finout, a FinOps maturity tool, improving cloud spend visibility and management.
+- Actively contributed as both team leader and individual contributor, balancing hands-on technology involvement with strategic guidance.
+- Transformed a young operations team into a mature, reliable infrastructure platform organization.
+
+Outcomes:
+- Decreased mean time to resolution (MTTR) for operational issues
+- Increased engineering delivery velocity through improved operational visibility
+- Enhanced deployment reliability and system scalability
+- Strengthened overall security hygiene across the organization
+- Enabled the engineering organization to focus on innovation rather than operational concerns
+
+## Launched and supported numerous successful projects, including:
+  - A Telegram-based game acquiring over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
+  - Film and Music platforms launches.
+  - DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
+  - Support for various 1st and 3rd party game launches.
+  - Development of product and environment ecosystems to reduce blast radius and increase security.
+  - Supported deployment of Gala Chain, Gala's Layer 1 blockchain.
+
+**Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, DataDog, Okta, Finout, Python, Rust, Go, NodeJS, Terraform, Helm
 
 ### Discord Based Adventure Game - Full Stack Founder
 
@@ -124,7 +145,7 @@ Led the development of a computer-sharing marketplace for game hosting, with a f
 
 March 2021 - March 2022
 
-Retruned to Austin, TX and rejoined Kasasa during the COVID-19 pandemic, adapting to remote work while driving cloud operations improvements.
+Returned to Austin, TX and rejoined Kasasa during the COVID-19 pandemic, adapting to remote work while driving cloud operations improvements.
 
 - Focused on developing tools and practices to support development teams in their continued success within the AWS ecosystem
 - Engineered solutions to enhance remote collaboration and maintain operational efficiency during the pandemic
