@@ -93,12 +93,12 @@ Outcomes:
 - Enabled the engineering organization to focus on innovation rather than operational concerns
 
 Launched and supported numerous successful projects, including:
-  - A Telegram-based game acquiring over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
-  - Film and Music platforms launches.
-  - DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
-  - Support for various 1st and 3rd party game launches.
-  - Development of product and environment ecosystems to reduce blast radius and increase security.
-  - Supported deployment of Gala Chain, Gala's Layer 1 blockchain.
+- A Telegram-based game acquiring over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
+- Film and Music platforms launches.
+- DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
+- Support for various 1st and 3rd party game launches.
+- Development of product and environment ecosystems to reduce blast radius and increase security.
+- Supported deployment of Gala Chain, Gala's Layer 1 blockchain.
 
 **Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, DataDog, Okta, Finout, Python, Rust, Go, NodeJS, Terraform, Helm
 
