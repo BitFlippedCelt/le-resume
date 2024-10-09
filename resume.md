@@ -51,10 +51,10 @@ subject: 'Le CV de Greg Horejsi 😸'
 - **DevOps & Engineering**: GitLab, GitHub Actions, CI/CD, Observability, Python, Rust, Go, Node.js
 - **Blockchain & Web3**: Ethereum, Substrate, HyperLedger, Smart Contracts, Depin, NFTs
 - **Leadership & Strategy**: Cloud Operations Management, Technology Strategy, Team Development, Stakeholder Management, Agile Leadership, Law of Balance
-- **Databases**: Postgres, MySQL, MongoDB, Redis, SurrealDB, GraphDB
+- **Databases**: Postgres, MySQL, MongoDB, Redis, SurrealDB, Neo4J
 - **Security & FinOps**: Access Control, Okta, Cloud Cost Optimization, Finout
 - **Game Development**: Godot, Unity, C#
-- **Operating Systems**: Linux (NixOS, Arch, Debian, Ubuntu)
+- **Operating Systems**: Linux (NixOS, Arch, Debian, Ubuntu), Windows, OSX
 
 ## Experience
 
