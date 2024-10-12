@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 4cm
 title: Hands-On Technology Leader
-description-meta: 'Tech leader with 20+ years of experience, evolving from curious coder to CTO of Infrastructure at Gala Games. Expertise in Python, AWS, GCP, and Kubernetes, orchestrating large-scale migrations and scaling systems to millions. Led global teams, automating workflows and pushing technological boundaries. Ventured into blockchain and Web3, building a gaming platform. Passionate about merging traditional infrastructure with emerging tech. Seeking leadership roles in Platform Engineering, DevOps, or Infrastructure to drive transformative change.
+description-meta: 'Tech leader with 20+ years of experience, evolving from curious coder to CTO of Infrastructure at Gala Games. Expertise in Python, AWS, GCP, and Kubernetes, orchestrating large-scale migrations and scaling systems to millions. Led global teams, automating workflows and pushing technological boundaries. Ventured into blockchain and Web3, building a gaming platform. Passionate about merging traditional infrastructure with emerging tech. Seeking leadership roles in Platform Engineering, DevOps, or Infrastructure to drive transformative change.'
 keywords:
   - AWS
   - GCP
@@ -164,7 +164,6 @@ Designing and developing a Discord game with an AI-led cyberpunk adventure.
 - Building Discord bot functionality with Poise and Serenity Rust crates
 - Leveraging Pulumi and GitHub Actions for infrastructure as code management
 - Developing Rust/Leptos web frontend for extended gameplay options
-- Targeting SEI or other performant blockchain networks for in-game economy
 - Implementing hybrid on-chain/off-chain approach for a sustainable gaming ecosystem
 
 **Technologies Used:** Rust, Python, Kubernetes, NATS, Redis, SurrealDB, Poise, Serenity, LLAMA
