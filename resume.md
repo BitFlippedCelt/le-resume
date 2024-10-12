@@ -139,21 +139,6 @@ Joined as a software engineer for VyprVPN product, transitioning into operations
 
 ## Projects
 
-### Stealth Startup Founding & Advisory
-CTO | Remote | Present
-
-Serving as a hands-on advisor for a stealth startup in the decentralized AI training and inference space. Providing strategic guidance and technical expertise to develop a platform that balances security, transparency, performance, and cost-effectiveness.
-
-- Architected and developed initial prototype work management system for AI training and inference workloads to replace centralized offerings
-- Supporting design and development efforts of migrating from 1st party Substrate based blockchain to Movement Labs blockchain
-- Developing backend services in Python and Rust with DragonflyDB and PostgreSQL for an upcoming gamified AI labeling and collection platform
-- Supporting frontend game client development efforts originally in Godot and now migrating to Unity
-- Working with team to support funding rounds and strategic partnerships
-- Developing core infrastructure and tooling to support AI training and inference workloads
-- Designing and implementing secure and compliant cloud infrastructure on GCP using Terraform, Kubernetes, and other tools
-
-**Technologies used:** Rust, Python, Move, DragonflyDB, PostgreSQL, Kubernetes, Terraform, Helm, GCP, Stable Diffusion, LLAMA
-
 ### Discord Based Adventure Game
 Full Stack Hobbyist | Austin, TX | April 2024 - Present
 
