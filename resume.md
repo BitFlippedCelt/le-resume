@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 4cm
 title: Hands-On Technology Leader
-description-meta: 'Dynamic technology executive with a proven track record in transforming infrastructure and driving innovation across regulated finance, gaming, and emergent blockchain industries. Combines strategic vision with hands-on technical expertise in cloud architecture, DevOps practices, and cutting-edge technologies including AI and blockchain. Adept at leading high-performance teams and delivering scalable solutions that drive business growth. Passionate about leveraging current and emerging technologies to solve complex challenges and create new opportunities in the rapidly evolving digital landscape..'
+description-meta: 'Tech enthusiast with 20+ years of experience, from curious coder to CTO of Infrastructure at Gala Games. Mastered Python, C#, AWS, GCP, and Kubernetes, orchestrating massive migrations and scaling systems to millions. Led global teams, automating workflows and pushing boundaries. Ventured into blockchain and Web3, building a gaming platform. Passionate about merging traditional infrastructure with emerging tech. Seeking leadership roles in Platform Engineering, DevOps, or Infrastructure to drive transformative change. Let's build something amazing!
 keywords:
 - AWS
 - GCP
@@ -43,7 +43,7 @@ subject: 'Le CV de Greg Horejsi 😸'
 ---
 ###### Greg Horejsi [ g.horejsi81@gmail.com ] . [ +1 626 923 7779 ] . [[LinkedIn](https://www.linkedin.com/in/ghorejsi/)] . [[GitHub](https://github.com/BitFlippedCelt)]
 
-Versatile technology leader with a proven track record of transforming digital infrastructure across gaming, fintech, and various industries. Skilled in developing innovative platforms that boost user engagement and revenue, while also creating tools and processes that empower development teams. Adept at building and mentoring high-performance teams, accelerating project delivery, and fostering innovation. Possesses deep expertise in cloud architecture, DevOps, AI, and blockchain technologies, consistently delivering scalable solutions that drive measurable business growth in both regulated and emerging markets.
+Tech enthusiast with 20+ years of experience, from curious coder to CTO of Infrastructure at Gala Games. Mastered Python, C#, AWS, GCP, and Kubernetes, orchestrating massive migrations and scaling systems to millions. Led global teams, automating workflows and pushing boundaries. Ventured into blockchain and Web3, building a gaming platform. Passionate about merging traditional infrastructure with emerging tech. Seeking leadership roles in Platform Engineering, DevOps, or Infrastructure to drive transformative change. Let's build something amazing!
 
 ## Skills
 
@@ -58,134 +58,70 @@ Versatile technology leader with a proven track record of transforming digital i
 
 ## Experience
 
-### Gala Games — CTO of Infrastructure
+### CTO of Infrastructure & Developer Enablement
 
-March 2022 - Present, Remote
+Gala Games | Remote | March 2022 - Present
 
-Led a transformative shift from reactive support to proactive, strategic infrastructure and security management, supporting Gala Games' growth through enhanced internal and external infrastructure and streamlined release workflows.
+Spearheaded a shift to proactive infrastructure and security management, facilitating Gala Games' growth by improving internal/external infrastructure and streamlining release workflows while increasing engineering velocity and operational efficiency.
 
-Key Achievements:
-- Implemented and standardized DevOps best practices across the organization, significantly improving operational efficiency and platform stability.
-- Developed and executed a strategic roadmap transitioning from ad-hoc operations to a structured, scalable infrastructure platform.
-- Spearheaded initiatives encompassing:
-  1. Consistent deployment targets and workflows
-  2. Infrastructure-as-Code (IaC) for cloud and Kubernetes environments
-  3. Mature CI/CD processes integrated with GitOps methodologies
-  4. Consolidated observability on the DataDog platform
-  5. Enhanced organizational security posture
-  6. Development of a FinOps program to improve cloud spend visibility and management
-
-- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations to optimize performance and resource management.
-- Led security enhancements including:
-  - Migration to Okta for improved identity and access management
-  - Overhaul of security operations and general security practices
-  - Implementation of access control management and resource isolation
-
-- Onboarded and integrated Finout, a FinOps maturity tool, improving cloud spend visibility and management.
-- Actively contributed as both team leader and individual contributor, balancing hands-on technology involvement with strategic guidance.
-- Transformed a young operations team into a mature, reliable infrastructure platform organization.
-
-Outcomes:
-- Decreased mean time to resolution (MTTR) for operational issues
-- Increased engineering delivery velocity through improved operational visibility
-- Enhanced deployment reliability and system scalability
-- Strengthened overall security hygiene across the organization
-- Enabled the engineering organization to focus on innovation rather than operational concerns
-
-Launched and supported numerous successful projects, including:
-- A Telegram-based game acquiring over 1 million users within 4 weeks of launch, validating the scalability and robustness of the infrastructure platform.
-- Film and Music platforms launches.
-- DNS and TLS strategies for decentralized content delivery across the node network, in close collaboration with the development team.
-- Support for various 1st and 3rd party game launches.
-- Development of product and environment ecosystems to reduce blast radius and increase security.
-- Supported deployment of Gala Chain, Gala's Layer 1 blockchain.
+- Developed and executed a strategic roadmap transitioning from ad-hoc operations to a structured, scalable infrastructure platform, including:
+  - Implementing and standardizing DevOps best practices across the organization
+  - Architecting and implementing a platform engineering function
+- Significantly improved operational efficiency and platform stability:
+  - Designing and implementing GitOps methodologies using FluxCD and internal tooling
+  - Decreased mean time to resolution (MTTR) for operational issues by an order of magnitude
+  - Reduced time to deploy new features and updates from weeks to days
+  - Enhanced deployment reliability and system scalability
+  - Developed architecture and process to support multi-region product isolation and deployment using IaC and GitOps patterns
+- Strengthened security and access management:
+  - Migrated to Okta for improved identity and access management
+  - Implemented access control management and resource isolation to reduce blast radius
+  - Developed product and environment ecosystems to enhance security
+- Designed and implemented scalable Kubernetes-based solutions, leveraging Traefik Ingress and AWS integrations
+- Transformed a young operations team into a mature, reliable infrastructure platform organization
+- Reduced operational team load by enabling engineering teams to self-serve infrastructure and platform support needs
+- Improved cloud cost management by onboarding and integrating Finout, a FinOps maturity tool
+- Supported major product launches and infrastructure initiatives:
+  - Rolled out infrastructure for Gala's first Telegram game, acquiring over 1 million users within 4 weeks
+  - Developed DNS and TLS strategies for decentralized content delivery across the node network
+  - Supported deployment of Gala Chain (Layer 1 blockchain), Gala Film, and Gala Music streaming services
+- Actively contributed as both team leader and individual contributor, balancing hands-on technology involvement with strategic guidance
 
 **Technologies used:** Kubernetes, Traefik, AWS, FluxCD, Gitlab, DataDog, Okta, Finout, Python, Rust, Go, NodeJS, Terraform, Helm
 
-### Discord Based Adventure Game - Full Stack Founder
+### Lead Cloud Operations Engineer
 
-April 2024 - Present, Austin, TX
+Kasasa | Austin, TX | March 2021 - March 2022
 
-Developing an innovative Discord-based game featuring an AI-driven narrative adventure set in a cyberpunk underworld.
-
-- Designed a narration and environmental description engine using LLAMA for dynamic storytelling.
-- Developed an asynchronous backend architecture leveraging Rust, Dragonfly (Redis), NATS, and SurrealDB.
-- Created Discord bot functionality using Poise and Serenity crates for seamless user interaction.
-- Orchestrated Kubernetes-based deployment through GitHub Actions and Pulumi (Python).
-
-**Planned Features:**
-
-- Web frontend using Rust Leptos framework for extended gameplay options.
-- Integration with SUI network for blockchain-managed in-game economy.
-- On-chain storage of player characters, NPCs, and items for true digital ownership.
-
-**Technologies Used:** Rust, Python, Kubernetes, NATS, Redis, SurrealDB, Poise, Serenity, LLAMA, SUI
-
-### RetroVision Gamiverse - Founder
-
-November 2021 - March 2022
-
-Led the development of a computer-sharing marketplace for game hosting, with a focus on establishing an NFT ecosystem across non-blockchain native games.
-
-- Gained in-depth knowledge of Ethereum blockchain and EVM (Ethereum Virtual Machine)
-- Developed and deployed Solidity smart contracts using Hardhat and OpenZepplin for local development and testnet environments
-- Designed tokenomics to support a platform enabling users to "stake" compute resources and reward idle computing power utilization
-- Developed product roadmap for various phases of the company vision
-- This project served as a launchpad into blockchain technology, directly leading to a key role at Gala Games
-
-**Key Achievements:**
-
-- Developed and deployed Solidity smart contracts
-- Designed tokenomics for a compute-sharing platform
-- Developed on-chain assets for digital ownership
-
-**Technologies used:** Ethereum, Solidity, Hardhat, OpenZepplin, NFTs, Python, Rust
-
-### Kasasa, Austin TX - Lead Cloud Operations Engineer
-
-March 2021 - March 2022
-
-Returned to Austin, TX and rejoined Kasasa during the COVID-19 pandemic, adapting to remote work while driving cloud operations improvements.
+Returned to Austin, TX and rejoined Kasasa during the pandemic, adapting to remote work while driving cloud operations improvements.
 
 - Focused on developing tools and practices to support development teams in their continued success within the AWS ecosystem
 - Engineered solutions to enhance remote collaboration and maintain operational efficiency during the pandemic
-- Developed tools to produce graph-based reporting and visualization of project interdependencies and downstream internal dependencies
-- Created a system integrating with GitLab to collect and analyze repository data, storing it in a GraphDB
+- Built tools to produce graph-based reporting and visualization of project interdependencies and downstream internal dependencies pulling from GitLab and other internal systems
 - Designed and implemented a Nuxt/VueJS frontend to display near real-time build health and critical project information to developers
 - Contributed to the organization's resilience and adaptability during a challenging period of remote work and rapid digital transformation
 
-**Key Achievements:**
+**Technologies used:** AWS, GitLab, Neo4J, Nuxt/VueJS, Cloud Operations
 
-- Development of graph-based reporting and visualization tools
-- Implementation of GitLab integration for repository data analysis
+### Director of Cloud Operations
 
-**Technologies used:** AWS, GitLab, GraphDB, Nuxt/VueJS, Cloud Operations
-
-### Qwinix Technologies, Denver, CO - Dir. Cloud Operations
-
-March 2019 - March 2021
+Qwinix | Denver, CO | March 2019 - March 2021
 
 Initially hired to build an AWS cloud professional services practice, pivoted to lead the development of a GCP-centric program following a strategic partnership shift.
 
 - Spearheaded the transition from AWS to GCP, leveraging existing cloud expertise to rapidly develop a comprehensive GCP service offering
 - Led and mentored a global team, including extensive collaboration with the India office, traveling to Mysore to facilitate knowledge transfer and team development
-- Achieved full GCP certification suite, including being among the first to complete the beta DevOps certification, demonstrating technical leadership and commitment to excellence
-- Designed and implemented cloud-first solutions for clients across various industries and cloud maturity levels
+- Designed and implemented cloud-native architectures for clients, supporting the entire lifecycle from initial sales engineering to final implementation and operational handover
 - Developed architecture and designs for early-stage projects, ensuring well-defined requirements and setting the foundation for project success
 - Contributed to the company's growth and eventual merger, playing a key role in its evolution into 66 Degrees, a highly successful GCP cloud partner
 - Cultivated strong relationships with GCP technical and sales teams, ensuring internal teams had access to latest technical training and resources
+- Achieved full GCP certification suite, including being among the first to complete the beta DevOps certification, demonstrating technical leadership and commitment to excellence
 
-**Key Achievements:**
+**Technologies used:** GCP, AWS, Cloud Architecture, DevOps, GitLab, Sales Engineering, Client Communication and Strategy
 
-- Full GCP certification suite, including beta DevOps certification
-- Successful management of organizational pivot from AWS to GCP focused support/services practice
-- International team leadership and development
+### Lead Cloud Engineer -> Director of Cloud Operations
 
-**Technologies used:** GCP, AWS, Cloud Architecture, DevOps
-
-### Kasasa, Austin TX - Lead Cloud Engineer to Director of Cloud Operations
-
-Feb 2016 - March 2019
+Kasasa | Austin, TX | Feb 2016 - March 2019
 
 Led the transformation from legacy infrastructure to modern cloud architecture, while growing into a director-level leadership role.
 
@@ -205,11 +141,11 @@ Led the transformation from legacy infrastructure to modern cloud architecture, 
 
 **Technologies used:** AWS, Kubernetes, KOPS, OpenStack, OpenVZ, CloudFlare, DataDog
 
-### Golden Frog, Austin TX - Lead DevOps Engineer
+### Software Engineer -> DevOps Practice Architect
 
-Oct 2012 - Feb 2016
+Golden Frog | Austin, TX | Oct 2012 - Feb 2016
 
-Originally joined as a Python engineer to support the VyprVPN product. Transitioned into operations and developer support, contributing to early DevOps methodologies.
+Originally joined as a software engineer to support the VyprVPN product. Transitioned into operations and developer support, contributing to early DevOps methodologies and inception of the DevOps practice.
 
 - Took over Windows Desktop development of the VyprVPN product, developing a WPF-based renewal of the original WinForms application.
 - Supported backend billing systems development using Scala and Java.
@@ -218,18 +154,50 @@ Originally joined as a Python engineer to support the VyprVPN product. Transitio
 
 **Technologies Used:** VMWare, ElasticSearch, OpenTSDB, InfluxDB, Jenkins, Scala, Go, Python, C#, C++
 
-## Awards & Recognition
-
-- Full GCP certification suite (2020/2021), including beta DevOps certification
-- AWS Certications up to Professional level
-
 ## Projects
 
-- Always working on something new, continually learning and growing
+### Discord Based Adventure Game
+Full Stack Hobbyist | Austin, TX | April 2024 - Present
+
+Designing and developing a Discord game with an AI-led cyberpunk adventure.
+
+- Developing a dynamic storytelling engine with LLAMA, incorporating narration and environmental descriptions.
+- Developing an scalable asynchronous backend architecture leveraging Rust, Dragonfly (Redis) , NATS, and SurrealDB.
+- Implementing Discord bot functionality using Poise and Serenity Rust crates for seamless user interaction
+- Leveraging Pulumi and GitHub Actions to manage infrastructure as code for the Discord bot and backend infrastructure
+- Building a Rust/Leptos web frontend for extended gameplay options
+- Targeting SEI potentially or other performant blockchain networks for blockchain-based in-game economy
+- Developing hybrid onchain/offchain approach to game economy to support a sustainable gaming ecosystem while ensuring transparency
+
+**Technologies Used:** Rust, Python, Kubernetes, NATS, Redis, SurrealDB, Poise, Serenity, LLAMA
+
+### RetroVision Gamiverse
+Blockchain Hobbyist | Austin, TX | November 2021 - March 2022
+
+Led the development of a computer-sharing marketplace for game hosting, with a focus on establishing an NFT ecosystem across non-blockchain native games.
+
+- Gained in-depth knowledge of Ethereum blockchain and EVM (Ethereum Virtual Machine)
+- Developed and deployed Solidity smart contracts using Hardhat and OpenZepplin for local development and testnet environments
+- Designed tokenomics to support a platform enabling users to "stake" compute resources and reward idle computing power utilization
+- Developed product roadmap for various phases of the project
+- This project served as a launchpad into blockchain technology, directly leading to a key role at Gala Games
+
+**Technologies used:** Ethereum, Solidity, Hardhat, OpenZepplin, NFTs, Python, Rust
+
+## Awards & Recognition
+
+- Full GCP certification suite, including beta DevOps certification circa 2020-2021
+- AWS Certications up to Professional level circa 2017-2018
 
 ## Education
 
 ### Devry University, Pomona, CA - 2009-2010
 
-- I studied under the Computer and Network Management program while at DeVry until I pivoted back into working full-time and was unable to complete the program
-- While attending Devry I quickly rose to the role of lab assistant for both networking classes and was tasked with maintaining the lab environment and assisting students with their lab work
+- Studied under the Computer and Network Management program while at DeVry until I pivoted back into working full-time
+- During my time at DeVry, I rapidly advanced to the position of lab assistant for multiple networking courses, where I was responsible for maintaining the lab environment and providing support to fellow students during their practical work
+
+### Mt Sierra College, Monrovia, CA - 1999-2000
+
+- Studied under the Computer Science program while at Mt Sierra College
+- Worked as a teaching assistant for introductory programming and security courses
+- Left school to work full-time at Parasoft
