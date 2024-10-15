@@ -60,7 +60,7 @@ Tech leader with 20+ years of experience, evolving from curious coder to CTO of 
 
 ### CTO of Infrastructure & Developer Enablement
 Gala Games | Remote | March 2022 - Present
-Cloudflare
+
 Led a shift to proactive infrastructure and security management, facilitating Gala Games' growth by improving infrastructure and streamlining release workflows while increasing engineering velocity and operational efficiency.
 
 - Developed and executed a strategic roadmap transitioning from ad-hoc operations to a structured, scalable infrastructure platform
