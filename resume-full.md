@@ -210,8 +210,7 @@ Parasoft | Monrovia, CA | 2000 - 2001
 
 - Provided technical support for internal customers using a variety of operating systems and applications.
 - Installed and managed network and server hardware.
-- Designed and implemented a pre 802.11 wireless network for the company using Breezecom equipment to connect 3 offices over 1-2 miles.
-  - Saved over $6,000/month in ISP fees by using this line of sight wireless network over T1 leased lines.
+- Designed and implemented a pre 802.11 wireless network for the company using Breezecom equipment to connect 3 offices over 1-2 miles to reduce ISP fees by $6,000/month.
 - Developed and maintained internal tools for managing network and server hardware using Perl and shell scripting.
 - Installed and maintained various UNIX and Linux operating systems across many hardware platforms including early Itanium systems.
 
@@ -251,7 +250,7 @@ Led development of a computer-sharing marketplace for game hosting with NFT ecos
 - AWS Certifications up to Professional level (2017-2018)
 - Letter of Recognition from Kasasa for exemplary performance in the migration of the company's infrastructure to AWS (2017)
 - Letter of Appreciation from Golden Frog for contributions to VyprVPN product (2015)
-- Dean's List at DeVry University (2010)
+- Dean's List at DeVry University (2009-2010)
 - Dean's List at Mt Sierra College (1999-2000)
 
 ## Education
