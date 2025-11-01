@@ -49,6 +49,8 @@ subject: 'Le CV de Greg Horejsi 😸'
 
 Technology leader with 12+ years architecting scalable infrastructure and leading high-performing teams across enterprise and Web3 environments. Proven track record of reducing deployment times by 90% through GitOps implementation, supporting platforms serving 1M+ users, and driving successful cloud migrations saving $500K+ annually. Expert in AWS/GCP, Kubernetes, and Platform Engineering, with unique experience bridging traditional infrastructure and blockchain technologies.
 
+### Interested in relocation to Germany
+
 ## Professional Experience
 
 ### Director DevOps
