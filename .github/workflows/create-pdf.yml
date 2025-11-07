@@ -9,33 +9,48 @@ on:
 jobs:
   publish-resume:
     runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        include:
+          - src: resume.md
+            base: gregory-horejsi-resume
+            display: "Gregory Horejsi Resume"
+          - src: resume-leadership.md
+            base: gregory-horejsi-resume-leadership
+            display: "Gregory Horejsi Leadership Resume"
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v4 # this checks out the repo in the ubuntu container
+      - name: Cache installer packages
+        uses: actions/cache@v4
+        with:
+          path: tools
+          key: pandoc-3.0.1_wkhtmltopdf-0.12.6.1-jammy
       - name: "Create a folder called output"
         run: |
           mkdir output
           cp resume-stylesheet.css output/resume-stylesheet.css
-          cp resume.md output/gregory-horejsi-resume.md
+          cp ${{ matrix.src }} output/${{ matrix.base }}.md
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
         run: |
-          wget https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb
-          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
-          sudo apt install ./pandoc-3.0.1-1-amd64.deb
-          sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+          mkdir -p tools
+          if [ ! -f tools/pandoc-3.0.1-1-amd64.deb ]; then wget -O tools/pandoc-3.0.1-1-amd64.deb https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb; fi
+          if [ ! -f tools/wkhtmltox_0.12.6.1-2.jammy_amd64.deb ]; then wget -O tools/wkhtmltox_0.12.6.1-2.jammy_amd64.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb; fi
+          sudo apt install ./tools/pandoc-3.0.1-1-amd64.deb
+          sudo apt install ./tools/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/gregory-horejsi-resume.html
+          pandoc ${{ matrix.src }} -f markdown -t html -c resume-stylesheet.css -s -o output/${{ matrix.base }}.html
 
       - name: "Convert HTML to PDF "
-        run: "wkhtmltopdf --enable-local-file-access output/gregory-horejsi-resume.html output/gregory-horejsi-resume.pdf"
+        run: "wkhtmltopdf --enable-local-file-access output/${{ matrix.base }}.html output/${{ matrix.base }}.pdf"
       # run: |
       #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
-      - uses: actions/upload-artifact@master
+      - uses: actions/upload-artifact@v4
         with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file.
-          name: 'Gregory Horejsi Resume'
+          name: ${{ matrix.display }}
           path: output
 
       # - name: Create Release
