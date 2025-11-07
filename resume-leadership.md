@@ -52,12 +52,14 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Allora Labs** | Dec 2024 – Present
 
 **Leadership Impact:**
+
 - Leading infrastructure transformation for decentralized AI network supporting research and production workloads
 - Partnering with executive team to architect technical strategy supporting 10x growth projections
 - Implementing DevSecOps culture reducing security surface area by 40% while improving developer velocity
 - Collaborating cross-functionally with engineering, product, and research teams to align infrastructure capabilities with business objectives
 
 **Hands-On Technical Contributions:**
+
 - Engineered Terraform and Ansible automation eliminating infrastructure drift across multi-cloud deployments
 - Reduced infrastructure spend by 30% through hands-on optimization of resource limits and instance right-sizing
 - Developed custom JavaScript-based GitHub Actions increasing deployment pipeline velocity by 90%
@@ -69,6 +71,7 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Gala Games** | Mar 2022 – Nov 2024
 
 **Leadership & Strategic Accomplishments:**
+
 - Built and led infrastructure and security organizations supporting explosive growth from 100K to 1M+ active users over a two-week period
 - Established engineering culture prioritizing automation, observability, and developer experience across 50+ person organization
 - Developed multi-year strategic roadmap transforming ad-hoc operations into scalable platform engineering organization
@@ -77,6 +80,7 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 - Launched internal security team and bug bounty program identifying 10+ critical vulnerabilities protecting $100M+ in digital assets
 
 **Technical Architecture & Implementation:**
+
 - Architected and implemented GitOps-based deployment platform using FluxCD reducing service deployment time from weeks to days (85% improvement)
 - Designed multi-region AWS architecture with Infrastructure as Code patterns supporting independent regional operations across 5 regions
 - Implemented FinOps practices and integrated Finout platform reducing cloud spend by 20% through visibility and optimization
@@ -88,10 +92,12 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Kasasa** | Mar 2021 – Mar 2022
 
 **Leadership & Team Development:**
+
 - Mentored cloud operations team through pandemic transition enabling 100% remote operations with zero downtime
 - Partnered with development leadership to improve collaboration and break down organizational silos
 
 **Technical Contributions:**
+
 - Built custom AWS monitoring tooling in Python increasing development team efficiency by 35%
 - Hands-on implementation of observability improvements across production infrastructure
 - Developed automation reducing operational toil by 40% for cloud operations team
@@ -100,12 +106,14 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Qwinix** | Mar 2019 – Mar 2021
 
 **Leadership & Business Development:**
+
 - Built up and led global team of 60+ engineers across US, India, and EMEA regions, improving productivity by 25% through mentorship programs and hands-on technical contributions
 - Pioneered AWS to GCP migration practice generating $2M+ in new consulting revenue within 18 months
 - Supported full sales cycle from technical pre-sales to implementation and customer success
 - Established engineering best practices and standards adopted across entire consulting organization
 
 **Technical Expertise & Client Delivery:**
+
 - Architected and led cloud migration engagements from design through production cutover
 - Collaborated directly with GCP engineering teams on complex technical implementations
 - Implemented service mesh solutions (LinkerD, Istio) improving fault tolerance by 30% for enterprise clients
@@ -116,11 +124,13 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Kasasa** | Feb 2016 – Mar 2019
 
 **Leadership & Organizational Transformation:**
+
 - Led cloud operations team through organizational transformation from traditional ops to modern DevOps culture
 - Established cross-functional collaboration between 70+ development and operations team members
 - Championed automation-first approach reducing operational costs by 40%
 
 **Technical Architecture & Migration:**
+
 - Spearheaded Kubernetes adoption using kops managing infrastructure supporting 1M+ end users across a secure rewards banking platform
 - Led technical evaluation and implementation of Cloudflare and Datadog partnerships
 - Architected multi-tenant DNS and TLS migration reducing latency by 30% and improving overall security posture
@@ -131,6 +141,7 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Goldenfrog** | 2013 – 2016
 
 **Technical Contributions & Platform Development:**
+
 - Developed VyprVPN Windows desktop client in WPF/C# serving 1M+ active users globally
 - Created the initial kernel driver level code to support VyprVPN split-tunnel, and other advanced features
 - Contributed to Scala and Java backend billing systems processing $10M+ annual revenue
@@ -139,6 +150,7 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 - Built monitoring stack using Elasticsearch and InfluxDB increasing operational visibility
 
 **Leadership Growth:**
+
 - Mentored engineers on DevOps practices and cloud architecture
 - Established engineering standards and best practices adopted by broader team
 
@@ -152,11 +164,13 @@ Engineering leader with 12+ years building scalable infrastructure and high-perf
 **Linear Systems** | 2009 – 2012
 
 **Leadership & Organizational Transformation:**
+
 - Worked directly with law enforcement evidence collection teams to improve data collection and analysis processes with our DIMS platform
 - Established engineering best practices and standards adopted across entire organization
 - Attended conferences and supported sales team with technical expertise
 
 **Technical Expertise & Client Delivery:**
+
 - Supported SDLC from requirements gathering through production cutover
 - Developed image enhancement and analysis tools using C#/.NET
 - Developed and implemented new evidence collection and analysis tools using Python and Java
